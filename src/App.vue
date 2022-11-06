@@ -6,11 +6,11 @@
   </div>
   <div>
     <h4>{{products[1]}}</h4>
-    <p>70 만원</p>
+    <p>50 만원</p>
   </div>
   <div>
     <h4>{{products[2]}}</h4>
-    <p>60 만원</p>
+    <p>50 만원</p>
   </div>
 </template>
 
